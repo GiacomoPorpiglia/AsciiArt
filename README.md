@@ -4,6 +4,6 @@ Hey! In this simple project, I wrote a python program that takes an image as inp
 
 For example, this GitHub logo...
 
-![alt text](https://github.com/GiacomoPorpiglia/AsciiArt/edit/master/octocat.png?raw=true)
+![alt text](https://github.com/GiacomoPorpiglia/AsciiArt/blob/master/octocat.png?raw=true)
 
 ...becomes...
