@@ -9,6 +9,6 @@ For example, this GitHub logo...
 ...becomes...
 
 <p>
-    <img src="asciiOctocat.png" width="600" />
+    <img src="asciiOctocat.png" width="auto" />
 </p>
 
