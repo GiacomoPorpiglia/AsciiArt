@@ -12,3 +12,4 @@ For example, this GitHub logo...
     <img src="asciiOctocat.png" width="auto" />
 </p>
 
+Hope you enjoy playing with this on your own, trying to give the program your own favorite photos! Have fun!
