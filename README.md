@@ -8,5 +8,5 @@ For example, this GitHub logo...
 
 ...becomes...
 
-[!alt text](https://github.com/GiacomoPorpiglia/AsciiArt/blob/master/asciiOctocat.png?raw=true)
+[!alt text](https://github.com/GiacomoPorpiglia/AsciiArt/blob/master/asciiOctocat.png)
 
