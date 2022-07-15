@@ -8,5 +8,7 @@ For example, this GitHub logo...
 
 ...becomes...
 
-[!alt text](asciiOctocat.png)
+<p>
+    <img src="asciiOctocat.png" width="600" />
+</p>
 
