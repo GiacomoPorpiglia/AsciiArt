@@ -1,4 +1,3 @@
-from ast import Try
 from PIL import Image
 import numpy
 
